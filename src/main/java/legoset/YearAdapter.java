@@ -1,4 +1,4 @@
-package movie;
+package legoset;
 
 import javax.xml.bind.annotation.adapters.XmlAdapter;
 import java.time.Year;
